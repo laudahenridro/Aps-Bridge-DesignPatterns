@@ -18,6 +18,9 @@ Sem Bridge, poderíamos acabar criando classes como ImagemS3, ImagemAzure, Video
 
 
 
+
+
+
 Diagrama de Classes do Projeto com Bridge
 
 <img width="915" height="392" alt="image" src="https://github.com/user-attachments/assets/861ee5cf-9d8c-43a0-a6ce-13a8efb20d3c" />
